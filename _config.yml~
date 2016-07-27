@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "Gene Callahan's Web Page"
+email: gcallah@mac.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am experimenting with replacing my HostGator web page with one
+  hosted at GitHub and built with Jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gcallah.github.io" # the base hostname & protocol for your site
+twitter_username: DrGeneCallahan
+github_username:  gcallah
+
+# Build settings
+markdown: kramdown
