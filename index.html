@@ -1,23 +1,52 @@
----
-layout: default
----
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+        <title>
+			Gene Callahan's GitHub Repositories
+        </title>
+    </head>
 
-<div class="home">
+    <body>
+            <div style="text-align:center">
+                <p>
+                </p>
+            </div>
+		<h1>
+			Gene Callahan's GitHub Repositories
+		</h1>
+            <div style="text-align:center">
+                <br>
 
-  <h1 class="page-heading">Posts</h1>
+                <h2>
+                    Class Pages
+                </h2>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <h3>
+                        <a href="https://gcallah.github.io/statistics/index.html">
+                        Introduction to Statistics and Probability
+                        </a>
+                    </h3>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+                    <h3>
+                        <a href="https://gcallah.github.io/algorithms/index.html">
+                        Design and Analysis of Algorithms
+                        </a>
+                    </h3>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+                <h2>
+                    Coding Project Pages
+                </h2>
 
-</div>
+                <h2>
+                    Book Project Pages
+                </h2>
+
+                    <h3>
+                        <a href="https://gcallah.github.io/history_of_science/index.html">
+                        The Idea of Science
+                        </a>
+                    </h3>
+            </div>
+
+    </body>
+</html>
