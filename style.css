@@ -1,9 +1,37 @@
+:root {
+  --link-color: #136;
+  --project-bg-color: #edf;
+}
+
 body {
     margin: 0;
     padding: 0;
-    font-size: 20px;
+    font-size: 100%;
     color: #333;
-    background: #edf;
+    background: #bac;
+    font-family: Verdana, Geneva, sans-serif
+}
+
+div.projects-left {
+    border-width: 2px;
+    border-style: outset;
+    border-color: red;
+    float: left;
+    background: var(--project-bg-color);
+    width: 38%;
+    margin: 2em 2em 2em 8em;
+    padding: 4px;
+}
+
+div.projects-right {
+    border-width: 2px;
+    border-style: outset;
+    border-color: red;
+    float: right;
+    background: var(--project-bg-color);
+    width: 38%;
+    margin: 2em 8em 2em 2em;
+    padding: 4px;
 }
 
 table, th, td {
@@ -14,11 +42,11 @@ table, th, td {
     }
 
 p {
-    margin: 8px 8px 8px 40px;
+    margin: .7em .7em .7em 3.4em;
 }
 
 ol, ul, dl, li {
-    margin: 20px 8px 8px 12px;
+    margin: 1.6em .7em .7em 1em;
 }
 
 p {
@@ -27,22 +55,22 @@ p {
 }
 
 h1,h2,h3,h4,h5 {
-    font-weight: bold;
+    font-weight: 300;
 }
 
 h1 {
-    margin: 28px 8px 24px 8px;
+    margin: 1em 8em 1em 8em;
     text-align: center;
-    font-weight: 300;
-    font-size: 32px;
+    font-size: 2.2em;
     background-color: #339;
     color: #cfc;
 }
 
 h2 {
-    font-size: 26px;
-    margin: 32px 8px 12px 24px;
-    color: #066;
+    font-size: 2.0em;
+    margin: 1.5em 1em 1.5em 4em;
+    color: #075;
+    font-family: Verdana, Geneva, sans-serif
 }
 
 h2.subhead {
@@ -53,16 +81,47 @@ h2.subhead {
 }
 
 h3 {
-    font-size: 20px;
-    margin: 20px 8px 12px 32px;
+    font-size: 1.6em;
+    margin: 1.4em 1em 1.4em 1em;
     color: #633;
-    font-weight: bold;
 }
 
 h4 {
-    font-size: 18px;
-    margin: 16px 8px 12px 40px;
+    font-size: 1.5em;
+    margin: 1.3em .7em 1em 3.4em;
     color: #339;
-    font-weight: bold;
+}
+
+figure {
+    margin: 1em 1em 1em 1em;
+    text-align: center;
+}
+figure.logo {
+    margin: .6em 1em .6em 1em;
+}
+
+a {
+    text-decoration: none;
+    color: var(--link-color);
+}
+a.menu  {
+    font-size: 1.3em;
+    font-weight: 600;
+    background: transparent;
+    color: var(--link-color);
+}
+a:link {
+    color: var(--link-color);
+}
+a.menu:link {
+    background: transparent;
+    color: var(--link-color);
+}
+a:visited {
+    color: var(--link-color);
+}
+a.menu:visited {
+    background: transparent;
+    color: #312;
 }
 
