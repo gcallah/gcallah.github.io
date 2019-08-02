@@ -19,7 +19,7 @@ div.projects-left {
     float: left;
     background: var(--project-bg-color);
     width: 38%;
-    margin: 2em 2em 2em 4em;
+    margin: 2em 1em 2em 4em;
     padding: 4px;
 }
 
@@ -30,7 +30,7 @@ div.projects-right {
     float: right;
     background: var(--project-bg-color);
     width: 38%;
-    margin: 2em 4em 2em 2em;
+    margin: 2em 4em 2em 1em;
     padding: 4px;
 }
 
