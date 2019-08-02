@@ -13,9 +13,9 @@ body {
 }
 
 div.projects-left {
-    border-width: 2px;
+    border-width: 3px;
     border-style: outset;
-    border-color: red;
+    border-color: MEDIUMVIOLETRED;
     float: left;
     background: var(--project-bg-color);
     width: 38%;
@@ -24,9 +24,9 @@ div.projects-left {
 }
 
 div.projects-right {
-    border-width: 2px;
+    border-width: 3px;
     border-style: outset;
-    border-color: red;
+    border-color: MEDIUMVIOLETRED;
     float: right;
     background: var(--project-bg-color);
     width: 38%;
