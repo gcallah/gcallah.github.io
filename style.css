@@ -65,7 +65,7 @@ h1,h2,h3,h4,h5 {
 }
 
 h1 {
-    margin: 1em 8em 1em 8em;
+    margin: 0em 8em 1em 8em;
     text-align: center;
     font-size: 2.2em;
     background-color: #339;
@@ -99,7 +99,7 @@ h4 {
 }
 
 figure {
-    margin: 1em 1em 1em 1em;
+    margin: 1em 1em 0em 1em;
     text-align: center;
 }
 figure.logo {
