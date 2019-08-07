@@ -1,5 +1,5 @@
 :root {
-  --link-color: #136;
+  --link-color: #536;
   --project-bg-color: #edf;
 }
 
@@ -66,10 +66,12 @@ h1,h2,h3,h4,h5 {
 
 h1 {
     margin: 0em 8em 1em 8em;
+    padding: 1em;
     text-align: center;
     font-size: 2.2em;
     background-color: #339;
-    color: #cfc;
+    background-image: url("graphics/stars.jpg");
+    color: #a8f;
 }
 
 h2 {
