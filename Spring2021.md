@@ -1,7 +1,7 @@
 ## Callahan: Spring 2021 Schedule
 
 | Day       | Time          | Events        |
-|-----------|-------------------------------|
+| --------- | ------------- | ------------- |
 | Monday    | 9:30 - 11:00  | Senior Design | 
 | Tuesday   | 11:00 - 12:20 | Software Engineering | 
 | Tuesday   | 12:30 - 2:00  | Faculty Meeting | 
