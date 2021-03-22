@@ -11,5 +11,5 @@
 | Thursday  | 2:00 - 3:20   | DevOps | 
 | Thursday  | 3:30 - 4:30   | API Meeting | 
 | Friday    | 9:00 - 10:50  | Intro to CS | 
-| Friday    | 11:15 - 12:15 | Economic Modeling | 
+| Saturday  | 10:00 - 11:15 | Economic Modeling | 
 
