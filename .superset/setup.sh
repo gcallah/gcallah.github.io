@@ -21,8 +21,8 @@ else
   echo "SUPERSET_ROOT_PATH not set (or is this checkout); skipping file copy"
 fi
 
-# 2. Dependencies. The Gemfile.lock (github-pages 89) can't be bundle-installed
-#    on the system Ruby, so we rely on a globally installed Jekyll instead.
+# 2. Dependencies. There is no Gemfile, so we rely on a globally installed
+#    Jekyll.
 JEKYLL="$(jekyll_cmd)"
 if [ -z "$JEKYLL" ]; then
   echo "ERROR: no 'jekyll' found on PATH. Install it with: gem install jekyll -v '~> 3.9'" >&2

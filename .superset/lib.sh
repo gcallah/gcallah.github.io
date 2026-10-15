@@ -1,8 +1,8 @@
 # Shared helpers for the Superset lifecycle scripts (sourced, not executed).
 
 # Pick the Jekyll binary. Prefer 3.x (closest to GitHub Pages); fall back to
-# whatever `jekyll` is on PATH. Bundler is bypassed because the Gemfile.lock
-# pins 2016-era gems that no longer build on this machine's Ruby.
+# whatever `jekyll` is on PATH. There is no Gemfile (GitHub Pages' legacy
+# build doesn't need one); keep Jekyll from looking for Bundler anyway.
 export JEKYLL_NO_BUNDLER_REQUIRE=true
 
 jekyll_cmd() {
