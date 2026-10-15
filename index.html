@@ -1,270 +1,109 @@
-<html>
+<!doctype html>
+<html lang="en">
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Gene Callahan: Homepage</title>
+        <meta name="description"
+              content="Gene Callahan: software engineer, economist, and teacher of computer science.">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap"
+              rel="stylesheet">
         <link href="style.css" rel="stylesheet" type="text/css"/>
-        <title>
-			Gene Callahan: Homepage
-        </title>
     </head>
 
     <body>
-        <figure class="logo">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <img src="graphics/GeneSmall.jpg" width="3%">
-            <figcaption>
-            </figcaption>
-        </figure>
-
-		<h1>
-			Gene Callahan: Homepage
-		</h1>
-
-            <div class="flex-container">
-
-                <div class="projects-left">
-                <h2>
-                    Class Pages
-                </h2>
-
-                    <h3>
-                        <a href="../algorithms/index.html">
-                        Design and Analysis of Algorithms
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../IntroToCS/index.html">
-                        Introduction to Computer Science
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="http://www.thedevopscourse.com">
-                        DevOps
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../DiscreteMathematics/index.html">
-                        Discrete Mathematics
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../IntroPython/index.html">
-                        Introduction to Programming Using Python
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../statistics/index.html">
-                        Introduction to Statistics and Probability
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../OOP2/index.html">
-                        Object-Oriented Programming
-                    </h3>
-
-                    <h3>
-                        <a href="../OperatingSystems/index.html">
-                        Operating Systems
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../SoftwareEngineering/index.html">
-                        Software Engineering
-                        </a>
-                    </h3>
-                </div>
-
-                <div class="projects-right">
-                <h2>
-                    Writing Project Pages
-                </h2>
-
-                    <h3>
-                        <a href="../hambone/index.html">
-                        A Stiff-Necked People
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../ModelWars/index.html">
-                        The History of the Model Wars
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../KickingTheStone/index.html">
-                        Kicking the Stone
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../history_of_science/index.html">
-                        The Idea of Science
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../Rationalism/index.html">
-                        Studies on Rationalism
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../BookReviews/index.html">
-                        Book Reviews
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../TechManagement/index.html">
-                        Technology Management
-                        </a>
-                    </h3>
-                </div>
-
-                <div class="projects-left">
-                <h2>
-                    Coding Project Pages
-                </h2>
-
-                    <h3>
-                        <a href="../Algocynfas/index.html">
-                        Algocynfas
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="https://tandondevops.github.io/IndraABM/">
-                        Indra Agent-Based Modeling System
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../docker-for-ed/index.html">
-                        Docker for Education
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../Emu86/index.html">
-                        Emu86: an x86 assembly language emulator
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a
-                            href="https://gcallah.github.io/AgileCourseware/index.html">
-                            Agile Courseware
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../biblio_engine/index.html">
-                        Bibliographical Search Engine
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../utils/index.html">
-                            Various utility programs
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="../InitFiles/index.html">
-                            Some initialization files
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a href="https://github.com/gcallah/HotScheme">
-                        Hot Scheme
-                        </a>
-                    </h3>
-                    <p>
-                        A Scheme interpreter written in Java.
+        <header class="hero">
+            <div class="hero-inner">
+                <img class="portrait" src="graphics/GeneSmall.jpg"
+                     alt="Photo of Gene Callahan">
+                <div class="hero-text">
+                    <h1>Gene Callahan</h1>
+                    <p class="tagline">
+                        Software engineer for over three decades, PhD
+                        (Cardiff), and teacher of economics, mathematics,
+                        and computer science.
                     </p>
-
-                    <h3>
-                        <a href="../MacroModels/index.html">
-                        Macroeconomic Models
-                        </a>
-                    </h3>
-                        <p>
-                        Models for the PPF, the Keynesian Cross, and real
-                        versus nominal growth.
-                        </p>
+                    <nav class="hero-nav">
+                        <a href="#classes">Classes</a>
+                        <a href="#writing">Writing</a>
+                        <a href="#coding">Code</a>
+                        <a href="#elsewhere">Elsewhere</a>
+                        <a href="about/">About</a>
+                    </nav>
                 </div>
-
-                <div class="projects-right">
-                <h2>
-                    Pages on other sites
-                </h2>
-
-                    <h3>
-                        <a
-                            href="https://www.amazon.com/Gene-Callahan/e/B007VXD2G8/ref=dp_byline_cont_pop_book_1">
-                        My Amazon author page
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a
-                            href="https://scholar.google.com/citations?user=P2dyTvoAAAAJ&hl=en&oi=ao&cstart=0&pagesize=20">
-                        My Google Scholar page
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a
-                            href="https://www.researchgate.net/profile/Gene_Callahan">
-                        My page at Research Gate
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a
-                            href="https://ideas.repec.org/cgi-bin/htsearch?form=extended&wm=wrd&dt=range&ul=&q=Gene+Callahan&cmd=Search%21&wf=000F&s=R&db=&de=">
-                        My archive at Research Papers in Economics
-                        </a>
-                    </h3>
-
-                    <h3>
-                        <a
-                            href="http://philpapers.org/s/Gene%20Callahan">
-                        My archive at PhilPapers
-                        </a>
-                    </h3>
-                </div>
-
             </div>
+        </header>
 
-            <hr>
+        <main class="grid">
 
-            <p>
-                Star image by Alexander Andrews on Unsplash.
-            </p>
+            <section class="card" id="classes">
+                <h2>Class Pages</h2>
+                <ul class="links">
+                    <li><a href="../algorithms/index.html">Design and Analysis of Algorithms</a></li>
+                    <li><a href="../IntroToCS/index.html">Introduction to Computer Science</a></li>
+                    <li><a href="http://www.thedevopscourse.com">DevOps</a></li>
+                    <li><a href="../DiscreteMathematics/index.html">Discrete Mathematics</a></li>
+                    <li><a href="../IntroPython/index.html">Introduction to Programming Using Python</a></li>
+                    <li><a href="../statistics/index.html">Introduction to Statistics and Probability</a></li>
+                    <li><a href="../OOP2/index.html">Object-Oriented Programming</a></li>
+                    <li><a href="../OperatingSystems/index.html">Operating Systems</a></li>
+                    <li><a href="../SoftwareEngineering/index.html">Software Engineering</a></li>
+                </ul>
+            </section>
+
+            <section class="card" id="writing">
+                <h2>Writing Project Pages</h2>
+                <ul class="links">
+                    <li><a href="../hambone/index.html">A Stiff-Necked People</a></li>
+                    <li><a href="../ModelWars/index.html">The History of the Model Wars</a></li>
+                    <li><a href="../KickingTheStone/index.html">Kicking the Stone</a></li>
+                    <li><a href="../history_of_science/index.html">The Idea of Science</a></li>
+                    <li><a href="../Rationalism/index.html">Studies on Rationalism</a></li>
+                    <li><a href="../BookReviews/index.html">Book Reviews</a></li>
+                    <li><a href="../TechManagement/index.html">Technology Management</a></li>
+                </ul>
+            </section>
+
+            <section class="card" id="coding">
+                <h2>Coding Project Pages</h2>
+                <ul class="links">
+                    <li><a href="../Algocynfas/index.html">Algocynfas</a></li>
+                    <li><a href="https://tandondevops.github.io/IndraABM/">Indra Agent-Based Modeling System</a></li>
+                    <li><a href="../docker-for-ed/index.html">Docker for Education</a></li>
+                    <li><a href="../Emu86/index.html">Emu86: an x86 assembly language emulator</a></li>
+                    <li><a href="https://gcallah.github.io/AgileCourseware/index.html">Agile Courseware</a></li>
+                    <li><a href="../biblio_engine/index.html">Bibliographical Search Engine</a></li>
+                    <li><a href="../utils/index.html">Various utility programs</a></li>
+                    <li><a href="../InitFiles/index.html">Some initialization files</a></li>
+                    <li>
+                        <a href="https://github.com/gcallah/HotScheme">Hot Scheme</a>
+                        <span class="note">A Scheme interpreter written in Java.</span>
+                    </li>
+                    <li>
+                        <a href="../MacroModels/index.html">Macroeconomic Models</a>
+                        <span class="note">Models for the PPF, the Keynesian Cross, and real
+                        versus nominal growth.</span>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="card" id="elsewhere">
+                <h2>Pages on other sites</h2>
+                <ul class="links">
+                    <li><a href="https://www.amazon.com/Gene-Callahan/e/B007VXD2G8/ref=dp_byline_cont_pop_book_1">My Amazon author page</a></li>
+                    <li><a href="https://scholar.google.com/citations?user=P2dyTvoAAAAJ&hl=en&oi=ao&cstart=0&pagesize=20">My Google Scholar page</a></li>
+                    <li><a href="https://www.researchgate.net/profile/Gene_Callahan">My page at Research Gate</a></li>
+                    <li><a href="https://ideas.repec.org/cgi-bin/htsearch?form=extended&wm=wrd&dt=range&ul=&q=Gene+Callahan&cmd=Search%21&wf=000F&s=R&db=&de=">My archive at Research Papers in Economics</a></li>
+                    <li><a href="http://philpapers.org/s/Gene%20Callahan">My archive at PhilPapers</a></li>
+                </ul>
+            </section>
+
+        </main>
+
+        <footer class="site-footer">
+            <p>Star image by Alexander Andrews on Unsplash.</p>
+        </footer>
     </body>
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-97026578-2', 'auto');
-        ga('send', 'pageview');
-
-    </script>
 </html>
