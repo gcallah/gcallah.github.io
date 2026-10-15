@@ -1,0 +1,5 @@
+{
+  "ports": [
+    { "port": 4000, "label": "Jekyll dev server (workspaces use 4000-4999)" }
+  ]
+}
