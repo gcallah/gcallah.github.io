@@ -112,9 +112,18 @@ a {
     max-width: 1100px;
     margin: -1.75rem auto 0;
     padding: 0 1.5rem 3rem;
-    /* Masonry-style columns so cards of different heights pack tightly. */
-    columns: 2 340px;
-    column-gap: 1.5rem;
+    /* Two fixed columns (see the .col wrappers in index.html), so every
+       browser shows the same two cards on each side. */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    align-items: start;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
 }
 
 .card {
@@ -123,8 +132,6 @@ a {
     border-radius: 14px;
     box-shadow: var(--shadow);
     padding: 1.6rem 1.75rem 1.25rem;
-    margin-bottom: 1.5rem;
-    break-inside: avoid;
     scroll-margin-top: 1.5rem;
 }
 
@@ -219,6 +226,12 @@ a {
 
 .pubs li {
     margin: .35rem 0;
+}
+
+@media (max-width: 760px) {
+    .grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 @media (max-width: 640px) {
