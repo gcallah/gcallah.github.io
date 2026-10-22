@@ -1,0 +1,19 @@
+---
+layout: blog
+heading: Blog
+---
+<section class="card">
+    <h2>Posts</h2>
+    {% if site.posts.size > 0 %}
+    <ul class="links post-list">
+        {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="note">{{ post.date | date: "%B %-d, %Y" }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No posts yet.</p>
+    {% endif %}
+</section>

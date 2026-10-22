@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{% if page.title %}{{ page.title | escape }} | {% endif %}Gene Callahan's Blog</title>
+        <meta name="description"
+              content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}Blog of Gene Callahan.{% endif %}">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap"
+              rel="stylesheet">
+        <link href="{{ '/style.css' | relative_url }}" rel="stylesheet" type="text/css"/>
+        <link rel="alternate" type="application/rss+xml" title="Gene Callahan's Blog"
+              href="{{ '/feed.xml' | absolute_url }}">
+    </head>
+
+    <body>
+        <header class="hero hero-compact">
+            <div class="hero-inner">
+                <img class="portrait" src="{{ '/graphics/GeneSmall.jpg' | relative_url }}"
+                     alt="Photo of Gene Callahan">
+                <div class="hero-text">
+                    <h1>{{ page.heading | default: page.title }}</h1>
+                    <nav class="hero-nav">
+                        <a href="{{ '/' | relative_url }}">&larr; Home</a>
+                        <a href="{{ '/blog/' | relative_url }}">Blog</a>
+                        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <main class="prose-wrap">
+            {{ content }}
+        </main>
+
+        <footer class="site-footer">
+            <p>
+                Background:
+                <a href="https://commons.wikimedia.org/wiki/File:Indrasnet.jpg">Indra&rsquo;s Net</a>
+                by Schnerf, via Wikimedia Commons,
+                <a href="https://creativecommons.org/licenses/by-sa/2.5/">CC BY-SA 2.5</a>.
+            </p>
+        </footer>
+    </body>
+</html>

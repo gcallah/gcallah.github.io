@@ -280,3 +280,14 @@ a {
         padding: 1.5rem 1.4rem 1rem;
     }
 }
+
+/* Blog */
+.post-meta {
+    color: var(--muted);
+    font-size: .9rem;
+    margin: 0 0 1.5rem;
+}
+
+.post-list .note {
+    margin: .15rem 0 0;
+}

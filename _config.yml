@@ -18,3 +18,6 @@ github_username:  gcallah
 
 # Build settings
 markdown: kramdown
+
+# Blog posts live under /blog/
+permalink: /blog/:year/:month/:day/:title/
