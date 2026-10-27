@@ -1,5 +1,7 @@
 # Gerry Scott
 
+![Gerry Scott](/graphics/GerryScott.jpg)
+
 Tonight, let me tell you about Gerry Scott.
 
 Maybe the first time I met him, but more likely the third or fourth, he was
@@ -39,5 +41,3 @@ and legs with piping hot coffee.
 
 And throughout it all, he was of remarkably good cheer, unlike our mutual friend
 Santo, who I will tell you about tomorrow night.
-
-![Gerry Scott](/graphics/GerryScott.jpg)
