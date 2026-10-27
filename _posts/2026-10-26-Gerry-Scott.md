@@ -40,4 +40,4 @@ and legs with piping hot coffee.
 And throughout it all, he was of remarkably good cheer, unlike our mutual friend
 Santo, who I will tell you about tomorrow night.
 
-[Gerry Scott](/graphics/GerryScott.jpg)
+![Gerry Scott](/graphics/GerryScott.jpg)
