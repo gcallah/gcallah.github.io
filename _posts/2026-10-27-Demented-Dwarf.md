@@ -29,7 +29,9 @@ Gerry told him, "Well Santo, if some part of my body is turning green, generally
 I would go to the hospital."
 
 Was Santo my friend? Kind of: it was sort of like being friends with a wild
-honey badger. 
+honey badger. He had, for instance, been banned from *most* of the bars in
+the neighborhood for fighting. He finally got banned from Moonshine, after about
+his twentieth fight there.
 
 One day, he asked me, "Professor, when is your new book coming out?" (I wasn't
 actually a professor yet, but from the day he met me, that's what he called me.)
