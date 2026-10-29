@@ -2,7 +2,8 @@
 
 ![Santo](/graphics/DementedDwarf.jpg)
 
-Our title today comes from Gerry Scott: when I would mention to Gerry that I had
+Our title today comes from [Gerry Scott](/_posts/2026-10-26-Gerry-Scott.md),:
+when I would mention to Gerry that I had
 seen Santo, he would usually ask "How is the demented dwarf?"
 
 Gerry had met Santo when Santo and two other fellows accosted him, threatening
