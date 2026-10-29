@@ -10,7 +10,7 @@ why he is unlikely to take any nonsense from anybody.
 
 He has owned restaurants in Brooklyn for many years. He usually has a cook
 preparing the food most nights, but on Mondays, he gives the cook the night off,
-and he does the cooking. One Monday, I stopped in to say hello. While he was
+and he does the cooking. One Monday, I stopped in to say hello. As he was
 working in the tiny kitchen, I chatted with him sitting on a chair just outside
 the window where waiters would pick up their orders. While we were talking, the
 phone rang. He answered it, listened for a moment, and then said, "You want me
