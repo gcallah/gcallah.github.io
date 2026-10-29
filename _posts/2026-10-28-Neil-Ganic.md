@@ -46,8 +46,8 @@ it firsthand, I believe the version here is more accurate than any I've seen in
 any of the papers.)
 
 You might think that this
-would damage Neil's business, but he told me, "Gene, the restaurant was packed
-for weeks afterwards."
+would damage Neil's business, but he told me, "Callahan, the restaurant was packed
+for weeks afterwards." (He usuallly called mt by my last name.)
 
 I imagine people were coming in while saying to themselves, "Maybe tonight, he
 will throw a swordfish."
