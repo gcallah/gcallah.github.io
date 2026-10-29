@@ -1,6 +1,6 @@
 Neil Ganic
 
-![Neil Ganic](/graphics/NeilGanic.jpg
+![Neil Ganic](/graphics/NeilGanic.jpg)
 
 Neil grew up in Yugoslavia. He told me how, as a teenager, he had been sitting in a
 tank, buried in the ground at the Yugoslav border with Hungary, waiting for a
@@ -41,7 +41,11 @@ As I recall it, Jon said that the couple left the restaurant crying.
 
 The incident was [written
 up](https://gothamist.com/food/chef-proud-he-threw-lobster-at-fussy-diner)
-in every New York paper. You might think that this
+in every New York paper. (Since I was told the story by my friend who witnessed
+it firsthand, I believe the version here is more accurate than any I've seen in
+any of the papers.)
+
+You might think that this
 would damage Neil's business, but he told me, "Gene, the restaurant was packed
 for weeks afterwards."
 
