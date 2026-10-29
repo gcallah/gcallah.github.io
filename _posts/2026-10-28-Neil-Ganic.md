@@ -37,7 +37,7 @@ returning the lobster tails. He stopped just before the table and yelled, "You
 want fucking fresh? Here is fucking fresh." He then hurled the lobster down onto
 their table. 
 
-As I recall it, Jon said that the couple left the restaurant crying.
+Jon said that the couple left the restaurant crying.
 
 The incident was [written
 up](https://gothamist.com/food/chef-proud-he-threw-lobster-at-fussy-diner)
