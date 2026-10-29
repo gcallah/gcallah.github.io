@@ -47,10 +47,10 @@ any of the papers.)
 
 You might think that this
 would damage Neil's business, but he told me, "Callahan, the restaurant was packed
-for weeks afterwards." (He usuallly called mt by my last name.)
+for weeks afterwards." (He usuallly called me by my last name.)
 
-I imagine people were coming in while saying to themselves, "Maybe tonight, he
-will throw a swordfish."
+I imagine people were coming in while saying to themselves, "Maybe tonight,
+he'll throw a swordfish."
 
 The final piece of the tale is that Neil opened a wine bar next door to the
 restaurant, and named it "The Flying Lobster." 
