@@ -1,4 +1,4 @@
-Neil Ganic
+# Neil Ganic
 
 ![Neil Ganic](/graphics/NeilGanic.jpg)
 
