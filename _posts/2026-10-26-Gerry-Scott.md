@@ -41,3 +41,6 @@ and legs with piping hot coffee.
 
 And throughout it all, he was of remarkably good cheer, unlike our mutual friend
 Santo, who I will tell you about tomorrow night.
+
+PS: Gerry once forgot Stevie Wonder on stage. I will tell you about that another
+night.
