@@ -17,10 +17,10 @@ your alarm for 7:07, or 7:14, or 7:21, or 7:28, etc. You get the idea, right?"
 "So?"
 
 "So? So? What are you going to do with those extra minutes? There are three
-leftover minutes that are just sitting with no role except to cause trouble.
-They could disrupt off your entire day."
+leftover minutes that are just sitting with no nothing to do except to cause you
+trouble. They could ruin your entire day."
 
 They just looked at Uncle Gene with worried expressions on their faces.
 Somehow, I just could not make them see the serious danger they were in
 if they set their alarms to ridiculous times like 3:17, 4:23, or 5:59.
-Well, I tried.
+Well, I tried. Sometimes, youth ignores the wisdom of age.
