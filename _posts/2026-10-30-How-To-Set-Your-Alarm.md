@@ -17,7 +17,7 @@ your alarm for 7:07, or 7:14, or 7:21, or 7:28, etc. You get the idea, right?"
 "So?"
 
 "So? So? What are you going to do with those extra minutes? There are three
-leftover minutes that are just sitting with no nothing to do except to cause you
+leftover minutes that are just sitting with nothing to do except to cause you
 trouble. They could ruin your entire day."
 
 They just looked at Uncle Gene with worried expressions on their faces.
