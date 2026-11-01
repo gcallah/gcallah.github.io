@@ -23,7 +23,7 @@ wound up chatting with a bunch of the other guys hanging around waiting to bail
 somebody out. (You will later find it important that, in general, the people
 posting bail were themselves not an entirely law-abiding group.) After they
 chatted for a bit, Frank asked if anyone wanted to go out for a smoke. A few
-guys came out with him. They had cigarette and went back in. More time passed,
+guys came out with him. They had cigarettes and went back in. More time passed,
 and he and his new friends took a smoke break again, and probably a couple more.
 
 Finally, Frank is called up to the window to post bail for his brother-in-law.
