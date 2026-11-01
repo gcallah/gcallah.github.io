@@ -20,7 +20,8 @@ not have been so impressed. It was one person doing both that got him hooked.
 At that time, Santo was trim and fit. But by the time I met him, he weighed
 almost 300 lbs., most of it in his enormous belly. And note: he was only 5'5"
 tall. As opposed to most men with a belly that large, Santo's didn't droop down,
-and it looked hard: more like he was pregnant than like he was fat.
+and it looked hard: more like he had swallowed a largish wrecking ball than that
+he was obese.
 
 He also had the largest naval hernia I have ever seen. It looked like someone
 had copied his belly again, just at a smaller scale. One day Gerry got a phone
