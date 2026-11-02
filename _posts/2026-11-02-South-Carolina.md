@@ -6,7 +6,7 @@ The other day, I was thinking about how the state of Oklahoma has its own famous
 musical named after it. But my new state does not.
 
 I was working out in the garden at the time, walking around on the magnificent
-layer of pine straw that cover covers all of my garden beds.  I asked myself
+layer of pine straw that covers all of my garden beds. I asked myself
 "What do I know of the musical Oklahoma?"
 
 The two lines I could recall were, "The corn is as high / As an elephant's eye."
