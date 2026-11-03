@@ -37,7 +37,8 @@ One day he said to me, "Johnny, there's a customer who wants a studio in the
 neighborhood for around $700." 
 
 (Periodically, Frank would say to him, "Dad, you've known Gene for 10 years
-now. His name is not John." Just like telling him that another agent's
+now. His name is not John." Statements like that had no impact on Arturo.
+Just like telling him that another agent's
 adopted daughter was from Honduras did not deter him from calling her "the
 little Chinese girl.")
 
