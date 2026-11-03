@@ -2,7 +2,7 @@
 
 ![Santo](/graphics/DementedDwarf.jpg)
 
-Our title today comes from [Gerry Scott]({% post_url 2026-10-26-Gerry-Scott %}),:
+Our title today comes from [Gerry Scott]({% post_url 2026-10-26-Gerry-Scott %}):
 when I would mention to Gerry that I had
 seen Santo, he would usually ask "How is the demented dwarf?"
 
