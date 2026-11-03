@@ -2,7 +2,7 @@
 
 ![Galeano Real Estate](/graphics/GaleanoRE.jpg)
 
-Arturo is my friend [Frank](({% post_url 2026-10-31-Frank-Galeano %}))'s
+Arturo is my friend [Frank]({% post_url 2026-10-31-Frank-Galeano %})'s
 father. He hopped off a merchant marine vessel in,
 I believe, Newport News, Virginia, sometime after World War Two, and asked
 where he should go to live. He was told there were lots of Italians in
