@@ -17,7 +17,7 @@ $50,000 or $60,000. Well into his 80s, he opened a T-shirt shop next door to
 Frank's real estate office. I don't think it did that well, but he was still
 trying new ventures. 
 
-By the time I arrived in the neighborhood, he owned, I would guess, ten or
+By the time I arrived in the neighborhood, he owned, I'd guess, ten or
 twelve buildings. He loved to walk the neighborhood in an old T-shirt and some
 worn khakis. People who didn't know him and saw him probably thought he was an
 elderly pensioner, staying in senior housing nearby, and just scraping by. But
@@ -26,8 +26,8 @@ million.
 
 One day, he told us about how, back in Calabria, they would catch a female
 octopus, put her on a hook, and use her to catch male octopuses. After a while,
-if no male octopuses came for her, they would conclude, "This one must be a
-nun," and they would throw her back in. 
+if no male octopuses came for her, they'd conclude, "This one must be a
+nun," and they'd throw her back in. 
 
 He spent a lot of his day in Frank's real estate office. He might do some odd
 jobs, like help a customer who came in when all of the actual agents were out.
@@ -62,6 +62,6 @@ bath?"
 "In the summer, in the ocean."
 
 "Well, when he asks where he can shower, I'll tell him, 'In the summer, in the
-ocean.' He probably would be fine with that."
+ocean.' He probably will be fine with that."
 
 
