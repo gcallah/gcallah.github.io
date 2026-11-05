@@ -19,7 +19,7 @@ Castaneda, and we became good friends.
 
 I had a chance, a few years later to describe that incident to Onal and his wife
 at his going-away party, when he was moving back to the Philippines.  I had never
-really thought about the incident from his point of view, but his wife said
+really thought about the event from his point of view, but his wife said
 "Yes, on the set break, Onal said to me 'There were a bunch of different sounds
 happening in the music: where were they coming from?'" I guess, besides
 forgetting to tell me that the drummer was blind, they forgot to tell the
