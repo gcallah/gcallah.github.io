@@ -37,9 +37,12 @@ He was still sitting behind the drum set, with no possibility of getting off the
 stage on his own: a stage like that is littered with cables, amps, guitar
 stands, mic stands, etc.
 
-And Hubert told me this had happened once before or they had left Onal
+And Hubert told me this had happened once before where they had left Onal
 stranded in some situation he could not walk out of on his own while playing a
-gig. When I told my friend [Gerry Scott]({% post_url 2026-10-26-Gerry-Scott %}) this story, he said "Oh, we did the same
+gig, and Onal actually had to call Hubert to come get him.
+
+When I told my friend [Gerry Scott]({% post_url 2026-10-26-Gerry-Scott %})
+this story, he said "Oh, we did the same
 thing to Stevie Wonder once: it was a benefit concert, and we had to rush to
 get each band up on stage after the last. We got the Red Hot Chili Peppers set
 up, and they started playing, when someone noticed that we had left Stevie up on
