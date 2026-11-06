@@ -2,7 +2,7 @@
 
 ![Major William F. Deegan](/graphics/Deegan.jpg)
 
-*Photo: NYC Department of Records*
+*Major William F. Deegan. Photo: NYC Department of Records*
 {: style="text-align: center; margin-top: -1rem"}
 
 The generation of my family before me was fairly "respectable." They were often
