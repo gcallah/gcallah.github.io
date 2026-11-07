@@ -2,12 +2,12 @@
 
 ![Howie](/graphics/Howie.jpg)
 
-I was sitting in the Coach and Horses pub, in the Stoke-Newington neighborhood of
+I was sitting in the Coach and Horses pub, in the Stoke Newington neighborhood of
 London. I saw the barmaid serve someone a pint glass with a pink liquid in it.
 
 Curious, I asked, "What is that pink drink you just served?"
 
-"A snakebite... It's lager, cider, and a shot of black currant juice."
+"A snakebite... It's lager, cider, and a shot of blackcurrant juice."
 
 "Let me try one."
 
@@ -18,7 +18,7 @@ I had no idea at that moment, but it turns out that snakebites are a
 traditional drink of London punk rockers. In fact, formerly they also contained
 a shot of gin. But serving gin in the drink was banned, because the punkers
 would have so many fights in the pubs. Of course, they could still order the
-shot of gin alongside their snake bite, and then dump it in themselves, so I
+shot of gin alongside their snakebite, and then dump it in themselves, so I
 don't think it actually prevented many fights.
 
 In any case, I pretended I knew what the man next to me was talking about. We
@@ -26,7 +26,7 @@ wound up chatting for a while, and then taking a ride to another part of London,
 during which he pointed out to me how much he loved the rooftops of the city. 
 
 Howie was one of the last remaining survivors of the 1970s and 80s
-Stoke-Newington punk rock scene. One night, I wound up, sitting at a table in
+Stoke Newington punk rock scene. One night, I wound up sitting at a table in
 the pub with him and two of the other survivors, a Scottish fellow and a Welsh
 fellow. The Welshman asked me about the philosophy program I was in.
 
