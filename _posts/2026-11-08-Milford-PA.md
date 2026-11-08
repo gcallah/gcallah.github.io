@@ -1,8 +1,8 @@
 # Milford
 
-![Broad Street, Milford, Pennsylvania](/graphics/MilfordBroadStreet.jpg)
+![The Dimmick Inn on Broad Street, Milford, Pennsylvania, decorated for Christmas](/graphics/MilfordDimmickInn.jpg)
 
-*Broad Street, Milford, Pennsylvania. Photo: [Chris Light](https://commons.wikimedia.org/wiki/File:Broad_Street_2018-10-30_501.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+*The Dimmick Inn, Broad Street, Milford, Pennsylvania, at Christmas. Photo: [Doug Kerr](https://www.flickr.com/photos/7327243@N05/4208815642), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)*
 {: style="text-align: center; margin-top: -1rem"}
 
 We first saw the house we owned in Milford, Pennsylvania, in March, I believe.
