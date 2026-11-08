@@ -123,12 +123,29 @@ a {
     max-width: 1100px;
     margin: -1.75rem auto 0;
     padding: 0 1.5rem 3rem;
-    /* Two fixed columns (see the .col wrappers in index.html), so every
-       browser shows the same two cards on each side. */
+    /* A full-width Order Books card on top, then two fixed columns (see
+       the .col wrappers in index.html), so every browser shows the same
+       two cards on each side. */
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
     align-items: start;
+}
+
+/* Full-width card above the two columns. */
+.card-wide {
+    grid-column: 1 / -1;
+}
+
+/* Books sit in two columns inside the wide card. */
+.links.books {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2.5rem;
+}
+
+.links.books li:nth-last-child(-n+2) {
+    border-bottom: none;
 }
 
 .col {
@@ -248,6 +265,12 @@ a {
 @media (max-width: 760px) {
     .grid {
         grid-template-columns: 1fr;
+    }
+    .links.books {
+        grid-template-columns: 1fr;
+    }
+    .links.books li:nth-last-child(2) {
+        border-bottom: 1px solid var(--border);
     }
 }
 
