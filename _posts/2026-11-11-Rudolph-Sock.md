@@ -2,8 +2,8 @@
 
 One of my New Haven housemates, Martin Obeng, met Rudolph on the bus in New
 Haven, and recognized that he was from West Africa. They struck up a
-conversation. Rudolph started coming over to
-our house on Willard Avenue, and he and I rapidly became friends.
+conversation. Rudolph started coming over to our house on Willard Avenue, and
+he and I rapidly became friends.
 
 Rudolph had come to New Haven from France, to do postdoctoral work in linguistics
 at Yale. He was from upper-class Gambian society, a fact which my friend Dellie
