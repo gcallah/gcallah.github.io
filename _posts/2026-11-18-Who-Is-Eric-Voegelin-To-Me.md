@@ -26,7 +26,7 @@ A marvelous example of Voegelin's scholarly diligence is the section on Henry
 James's work, "The Turn of the Screw," in Voegelin's collected works. When the
 section starts, Voegelin has just read "The Turn of the Screw," and is barely
 familiar with the works of James. By the time the section ends, in writings
-from a few years later, he is a master of James's ouvre, to the extent that you
+from a few years later, he is a master of James's oeuvre, to the extent that you
 could easily see him teaching a course on James.
 
 Sometimes this meticulousness got the better of him. In the late 1930s, he
@@ -54,7 +54,7 @@ Somewhere about 1946 or so, the work had reached seven volumes in scope, and
 the publisher finally gave up. At that point, Voegelin simply set aside the
 huge amount of work he had done on the project, and immediately launched into a
 new, five-volume history of order. One must be a bit of a maniac to do that
-sort of thing. (And I'm not saying anything against him and pointing this out,
+sort of thing. (And I'm not saying anything against him in pointing this out,
 because in general, I like maniacs.)
 
 He continued work on this project almost up to the day of his death, dictating
