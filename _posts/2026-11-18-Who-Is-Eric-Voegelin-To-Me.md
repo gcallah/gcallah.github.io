@@ -15,8 +15,8 @@ I started to do so, beginning with *The New Science of Politics*. I was
 immediately hooked. Voegelin is a masterful scholar, in addition to being a
 penetrating thinker. Those two things don't necessarily go together: there are
 people who are excellent at digging up some obscure reference in Arabic to
-prove what Averroes really thought, but do not really have any major ideas of
-their own. And then there are people like Michael Oakeshott, the other thinker
+prove what Averroes really thought about divine simplicity, but do not really
+have any major ideas of their own. And then there are people like Michael Oakeshott, the other thinker
 I will discuss with you, who is brilliant but not particularly interested in
 scholarship. But Voegelin was a master in both worlds. As far as I know, he
 could read German, English, French, Italian, Ancient Greek, Latin, Hebrew,
