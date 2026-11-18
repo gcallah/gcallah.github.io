@@ -35,7 +35,7 @@ publisher. (You can easily find the details in the Collected Works: this is a
 blog post, so I'm not going to put in references here.) The book was to be 200
 pages, and delivered in 1 year. Somewhere in the collected works, there is
 documentation of the progress of the correspondence between Voegelin and his
-publisher. While I'm making up the particular dates and numbers, basically, my
+publisher. While I'm making up the particular dates and numbers, my
 chronology below is essentially truthful to the spirit of what occurred:
 
 1938: Voegelin contracts to deliver a 200-page history of political thought in
