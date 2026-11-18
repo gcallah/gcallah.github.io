@@ -18,7 +18,7 @@ people who are excellent at digging up some obscure reference in Arabic to
 prove what Averroes really thought about divine simplicity, but do not really
 have any major ideas of their own. And then there are people like Michael Oakeshott, the other thinker
 I will discuss with you, who is brilliant but not particularly interested in
-scholarship. Voegelin was a master in both worlds. As far as I know, he
+scholarship. Voegelin was a master in both worlds. For example, as far as I know, he
 could read German, English, French, Italian, Ancient Greek, Latin, Hebrew,
 Sanskrit, and Chinese.
 
