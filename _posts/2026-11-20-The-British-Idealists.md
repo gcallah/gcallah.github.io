@@ -18,7 +18,8 @@ Boucher, I got to know the members of the British Idealism Specialty Group.
 *David Boucher*
 {: style="text-align: center; margin-top: -1rem"}
 
-I have attended several of their conferences at Gregynog Hall in Wales, as well
+I have attended several of their conferences at
+[Gregynog Hall](https://en.wikipedia.org/wiki/Gregynog_Hall) in Wales, as well
 as conferences of the British Political Science Association in Belfast and
 Manchester, where the idealists held a mini-conference within the larger
 conference, and a British and Italian idealism conference in Genoa. (That's
