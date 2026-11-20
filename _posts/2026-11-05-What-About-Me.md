@@ -2,6 +2,7 @@
 
 ![Onal Castaneda](/graphics/Onal.jpg)
 *Onal, Mike, and Hubert at Bill's Pickin' Parlor*
+{: style="text-align: center; margin-top: -1rem"}
 
 I was invited to play with some Filipino fellows I had met, at a party thrown
 by the local Filipino Association.
