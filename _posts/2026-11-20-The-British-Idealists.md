@@ -54,8 +54,8 @@ did not.
 
 Colin and I immediately established the same sort of relationship that Larry
 and I have: constant, good-natured razzing of each other. For instance, at our
-first dinner in Genoa, Colin got served before me. Sitting across from the
-table from me, he began eating. But after a few seconds, he looked up at me and
+first dinner in Genoa, Colin got served before me. Sitting across the table
+from me, he began eating. But after a few seconds, he looked up at me and
 asked, "Gene, do you know why this food is so good?"
 
 "No, I don't."
