@@ -1,6 +1,7 @@
 # What About Me?
 
 ![Onal Castaneda](/graphics/Onal.jpg)
+
 *Onal, Mike, and Hubert at Bill's Pickin' Parlor*
 {: style="text-align: center; margin-top: -1rem"}
 
