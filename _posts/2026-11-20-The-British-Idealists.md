@@ -41,10 +41,11 @@ There is a pub in the basement of the hall. Or at least there was: last trip
 there, we never went down to it. They used to just open it to conference
 attendees and let them serve themselves, until whenever they wanted to retire
 for the evening. Apparently, my friends Pete and Peri ruined this arrangement
-by not wanting to retire until 9:00 am in the morning, and then heading straight
-from the pub to the first paper presentation of the day, which apparently went
-somewhat worse for their being there. Peri's head is just visible in the back
-here, directly behind mine.
+by not wanting to retire until 9:00 am in the morning, and then heading
+straight from the pub to the first paper presentation of the day, which
+apparently went somewhat worse for their being there. In the photo below, of
+the Cardiff School of Law and Politics Christmas party, Peri's head is just
+visible in the back, directly behind mine.
 
 ![Cardiff Christmas party](/graphics/CardiffChristmasParty.jpg)
 
