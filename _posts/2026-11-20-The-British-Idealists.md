@@ -43,7 +43,8 @@ attendees and let them serve themselves, until whenever they wanted to retire
 for the evening. Apparently, my friends Pete and Peri ruined this arrangement
 by not wanting to retire until 9:00 am in the morning, and then heading straight
 from the pub to the first paper presentation of the day, which apparently went
-somewhat worse for their being there.
+somewhat worse for their being there. Peri's head is just visible in the back
+here, directly behind mine.
 
 ![Cardiff Christmas party](/graphics/CardiffChristmasParty.jpg)
 
