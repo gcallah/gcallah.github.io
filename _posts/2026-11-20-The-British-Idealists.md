@@ -45,13 +45,13 @@ by not wanting to retire until 9:00 am in the morning, and then heading straight
 from the pub to the first paper presentation of the day, which apparently went
 somewhat worse for their being there.
 
-![Christmas dinner with James Connelly, Chinatsu Kobayashi, and Colin Tyler](/graphics/BritishIdealists.jpg)
+![Cardiff Christmas party](/graphics/CardiffChristmasParty.jpg)
 
 Here are my friends James Connelly, Chinatsu Kobayashi, and Colin Tyler at
 Christmas dinner. For some reason, they each got a silly Christmas hat, while I
 did not.
 
-![Cardiff Christmas party](/graphics/CardiffChristmasParty.jpg)
+![British idealists](/graphics/BritishIdealists.jpg)
 
 Colin and I immediately established the same sort of relationship that Larry
 and I have: constant, good-natured razzing of each other. For instance, at our
