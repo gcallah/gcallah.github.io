@@ -71,3 +71,6 @@ moment, but he could always come stay with us for as long as he needed to.
 But I don't think I saw Dellie for over two decades, until last year, when he
 came down to play at our house in South Carolina. The picture at the top is
 from that day.
+
+Oh, and I'm dressed like that because Dellie implored me, "Mean Gene, dress
+like a [rude boy](https://jamaicanpatwah.com/term/Rude-bwoy/1078) again!"
