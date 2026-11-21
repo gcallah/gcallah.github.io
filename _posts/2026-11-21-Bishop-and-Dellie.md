@@ -2,6 +2,9 @@
 
 ![Dellie and Bishop](/graphics/DellieAndBishop.jpg){: style="width: 67%; display: block; margin: 0 auto"}
 
+*Dellie and Bishop*
+{: style="text-align: center; margin-top: -1rem"}
+
 The first time I met Bishop one of my early reggae bands was playing at a West
 Indian social club in Stamford. Our drummer was Martin Obeng, my drum teacher,
 who was a master drummer from Ghana. Martin was an excellent drummer, but not a
