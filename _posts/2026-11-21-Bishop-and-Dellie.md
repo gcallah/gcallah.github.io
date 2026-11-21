@@ -30,8 +30,8 @@ with that formation for a couple of years.
 Dellie was the master of creating nicknames that stuck. As mentioned in a
 previous post, it was him that named
 [Rudolph Sock]({% post_url 2026-11-11-Rudolph-Sock %}) "King Rudolph." Clayon
-was "The Captain," and I was "Mean Gene." Years later, our friend Chris asked me, "Who gave you the name
-Mean Gene anyway? Dellie?"
+was "The Captain," and I was "Mean Gene." Years later, our friend Chris asked
+me, "Who gave you the name Mean Gene anyway? Dellie?"
 
 "That's right," I said.
 
