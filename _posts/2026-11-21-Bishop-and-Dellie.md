@@ -2,7 +2,7 @@
 
 ![Dellie and Bishop](/graphics/DellieAndBishop.jpg){: style="width: 67%; display: block; margin: 0 auto"}
 
-*Dellie and Bishop*
+*Dellie, me and Bishop*
 {: style="text-align: center; margin-top: -1rem"}
 
 The first time I met Bishop one of my early reggae bands was playing at a West
