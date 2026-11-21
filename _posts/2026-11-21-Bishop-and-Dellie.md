@@ -64,9 +64,11 @@ I don't think he made me put on the cologne anymore after that.
 
 I continued to see Bishop off and on after I left Profile. In fact, a couple of
 years ago, he called me and asked if I could buy him a house in Connecticut. He
-was stuck for a place to live, and that seemed like a good solution to him. I
-told him I had just bought a house, and couldn't really buy another at that
-moment, but he could always come stay with us for as long as he needed to.
+was stuck for a place to live, and that seemed like a good solution to him. (He
+didn't actually want me to *give* him a house: he was suggesting I buy a
+fixer-upper in CT and let him live in it while he worked on it.) I told him I
+had just bought a house, and couldn't really buy another at that moment, but he
+could always come stay with us for as long as he needed to.
 
 But I don't think I saw Dellie for over two decades, until last year, when he
 came down to play at our house in South Carolina. The picture at the top is
