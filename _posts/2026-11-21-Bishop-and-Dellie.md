@@ -1,6 +1,6 @@
 # Bishop and Dellie
 
-![Dellie and Bishop](/graphics/DellieAndBishop.jpg){: style="width: 67%; display: block; margin: 0 auto"}
+![Dellie, me and Bishop](/graphics/DellieAndBishop.jpg){: style="width: 67%; display: block; margin: 0 auto"}
 
 *Dellie, me and Bishop*
 {: style="text-align: center; margin-top: -1rem"}
