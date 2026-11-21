@@ -6,10 +6,11 @@
 {: style="text-align: center; margin-top: -1rem"}
 
 The first time I met Bishop one of my early reggae bands was playing at a West
-Indian social club in Stamford. Our drummer was Martin Obeng, my drum teacher,
-who was a master drummer from Ghana. Martin was an excellent drummer, but not a
-conventional reggae drummer at all. He liked to play very complex rhythms and
-was often essentially soloing throughout an entire song.
+Indian social club in Stamford. Our drummer was [Martin
+Obeng](https://music.brown.edu/people/kwaku-kwaakye-martin-obeng), my drum
+teacher, who was a master drummer from Ghana. Martin was an excellent drummer,
+but not a conventional reggae drummer at all. He liked to play very complex
+rhythms and was often essentially soloing throughout an entire song.
 
 Well, the reggae purists in the audience did not like this one little bit. Some
 friends of ours had come to see the show, and when we took a break, they told
@@ -27,10 +28,10 @@ keyboards, and percussion, so the fit was very good, and we played together
 with that formation for a couple of years.
 
 Dellie was the master of creating nicknames that stuck. As mentioned in a
-[previous post]({% post_url 2026-11-11-Rudolph-Sock %}), it was him that named
-Rudolph Sock "King Rudolph." Clayon was "The Captain," and I was "Mean Gene."
-Years later, our friend Chris asked me, "Who gave you the name Mean Gene
-anyway? Dellie?"
+previous post, it was him that named
+[Rudolph Sock]({% post_url 2026-11-11-Rudolph-Sock %}) "King Rudolph." Clayon
+was "The Captain," and I was "Mean Gene." Years later, our friend Chris asked me, "Who gave you the name
+Mean Gene anyway? Dellie?"
 
 "That's right," I said.
 
