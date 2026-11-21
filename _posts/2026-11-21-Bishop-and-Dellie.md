@@ -49,13 +49,14 @@ the bass player, did, but we were not allowed to smoke with him, because, as
 Bishop said, "Gene, Bruce, if him smoke, him forget everything." So that left
 it up to me and Culture to maintain our honor as a reggae band.
 
-We had a regular afternoon gig in South Norwalk, and on the set break, Culture
-and I would go out to his car and share a spliff. And every time we did,
-Culture would make me put on a bunch of cologne, and do so himself, so we would
-not smell like herb when we went back to the club. After a few weeks of this, I
-said, "Culture, okay, so they don't think we're smoking out here. Instead, they
-see two men head to a car in the parking lot every week, and come back smelling
-like the exact same cologne. So you know what they think we're doing instead?"
+We had a regular, Saturday afternoon gig in South Norwalk, and on the set
+break, Culture and I would go out to his car and share a spliff. And every time
+we did, Culture would make me put on a bunch of cologne, and do so himself, so
+we would not smell like herb when we went back to the club. After a few weeks
+of this, I said, "Culture, okay, so they don't think we're smoking out here.
+Instead, they see two men head to a car in the parking lot every week, and come
+back smelling like the exact same cologne. So you know what they think we're
+doing instead?"
 
 Culture's eyes grew wide, and he said, "Ras clot, no!"
 
