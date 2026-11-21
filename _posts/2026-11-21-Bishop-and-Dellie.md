@@ -46,8 +46,8 @@ for several years.
 A fellow named Culture was the drummer in that group, and Bishop only sang.
 Bishop and Dellie and Derek, who just passed away, did not smoke herb. Bruce,
 the bass player, did, but we were not allowed to smoke with him, because, as
-Bishop said, "Gene, if Bruce smokes, him forget everything." So that left it up
-to me and Culture to maintain our honor as a reggae band.
+Bishop said, "Gene, Bruce, if him smoke, him forget everything." So that left
+it up to me and Culture to maintain our honor as a reggae band.
 
 We had an afternoon gig in South Norwalk, and on the set break, Culture and I
 would go out to his car and share a spliff. And every time we did, Culture
