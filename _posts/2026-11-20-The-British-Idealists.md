@@ -15,6 +15,7 @@ through my study of him, and my heading to Cardiff to do a PhD with David
 Boucher, I got to know the members of the British Idealism Specialty Group.
 
 ![David Boucher](/graphics/DavidBoucher.jpg)
+
 *David Boucher*
 {: style="text-align: center; margin-top: -1rem"}
 
