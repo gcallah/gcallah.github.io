@@ -30,4 +30,4 @@ only one who could look back. And I stupidly forgot to tell her the rule.
 
 And she looked back.
 
-![Orpheus and Eurydice, by George Frederic Watts](/graphics/OrpheusAndEurydice.jpg){: style="width: 67%; display: block; margin: 0 auto"}
+![Orpheus and Eurydice, by Christian Gottlieb Kratzenstein-Stub](/graphics/OrpheusAndEurydice.jpg){: style="width: 387px; max-width: 67%; display: block; margin: 0 auto"}
