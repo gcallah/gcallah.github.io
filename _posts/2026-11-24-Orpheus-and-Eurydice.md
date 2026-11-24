@@ -13,6 +13,8 @@ him pass. His playing then
 brought Hades and Persephone to tears, and for the first time ever, they agreed
 to let a mortal leave the underworld.
 
+![Orpheus before Hades and Persephone, by François Perrier](/graphics/OrpheusHadesPersephone.jpg){: style="width: 67%; display: block; margin: 0 auto"}
+
 But they placed one condition on this gift: on the way back to the land of the
 living, Orpheus must trust that Eurydice was still behind him, and must never
 look back.
