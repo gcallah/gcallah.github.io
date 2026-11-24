@@ -1,5 +1,7 @@
 # Orpheus and Eurydice
 
+![Orpheus, by George de Forest Brush](/graphics/OrpheusLyre.jpg){: style="width: 67%; display: block; margin: 0 auto"}
+
 Orpheus was deeply in love with Eurydice, but soon after they married, she was
 bitten by a poisonous snake and died.
 
