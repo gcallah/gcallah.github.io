@@ -7,7 +7,7 @@ bitten by a poisonous snake and died.
 
 Orpheus could not accept this as final. The greatest musician in the world, he
 descended into the underworld with his lyre to recover his beloved. With the
-power of his music, he charmed the boatman Charon to row him across the river
+power of his music, he charmed the boatman Charon into rowing him across the river
 Styx into Hades, and charmed the three-headed dog Cerberus so that the beast let
 him pass. His playing then
 brought Hades and Persephone to tears, and for the first time ever, they agreed
