@@ -14,7 +14,7 @@ connected meanings that lets a human interpreter decide, based on context,
 whether the word "tiger" is referring to a large cat, a baseball player (the
 Detroit Tigers), or an Asian economic powerhouse (the Asian Tigers).
 
-Understood this way, what we have confronting us is an incredibly complex
+Understood this way, what we have confronting us is an enormously complex
 instrument that, as an artist, one can learn to play. And in the novel I am
 calling *Let Us Make Us a Name*, I have been attempting to learn to play it.
 
