@@ -73,4 +73,4 @@ I also asked Claude to create the possibility of staging a contest for readers,
 where readers could attempt to submit their own solutions to the puzzle, and
 Claude could judge which reader had come closest to the correct solution.
 
-You can follow the novel at the [Model Wars site](https://gcallah.github.io/ModelWarsPublic/index.html).
+You can read the novel at the [Model Wars site](https://gcallah.github.io/ModelWarsPublic/index.html).
