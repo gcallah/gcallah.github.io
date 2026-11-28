@@ -9,7 +9,7 @@ When my band the Boondocks Boys started performing this song:
 I was immediately moved to write my own version:
 
 Don't close your eyes  
-You're driving a truck  
+You're drivin' a truck  
 If you close them now  
 It'll be fucked up  
 Darling, just once look at the road  
